@@ -1,0 +1,14 @@
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+body{
+    background: rgb(217,102,245);
+background: linear-gradient(90deg, rgba(217,102,245,1) 0%, rgba(33,207,187,1) 43%, rgba(253,109,255,1) 100%);
+}
